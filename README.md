@@ -1,16 +1,18 @@
 # HTML Newspaper Recreation - Pre-1990 Urdu Newspaper
 
 ## Student Information
-- **Name:** [Your Name]
-- **Roll Number:** [Your Roll No]
-- **Section:** [Your Section]
+- **Name:** Uzair Ahmad
+- **Roll Number:** p229021
+- **Section:** BSCS-8B
 
 ---
 
 ## Original Newspaper
-- **Name:** [Newspaper Name in Urdu and English]
-- **Date:** [Publication Date - e.g., 1985-1989]
-- **Source:** [Where you found it - e.g., National Library Archives, Family Collection, University Library]
+- **Name:** JHang newspaper in Urdu
+- **Date:** 1988
+- **Source:** Google/Online
+
+- **Live preview:** p229021.netlify.app
 
 ---
 
