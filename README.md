@@ -102,9 +102,9 @@ Open `index.html` in a web browser to view the recreated newspaper front page. I
 
 ## Submission Checklist
 
-- `index.html` — Main HTML file
-- `images/` — Project images and assets
-- `README.md` — Project documentation
+- `index.html` Main HTML file
+- `images/` Project images and assets
+- `README.md` Project documentation
 - Inline comments present in `index.html` for major sections
 
 ---
