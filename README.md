@@ -1,14 +1,4 @@
-# HTML Newspaper Recreation - Pre-1990 Urdu Newspaper
-
-## Student Information
-- **Name:** Uzair Ahmad
-- **Roll Number:** p229021
-- **Section:** BSCS-8B
-
----
-
-## Original Newspaper
-### HTML Newspaper Recreation — Pre-1990 Urdu Newspaper
+# HTML Newspaper Recreation
 
 ## Student Information
 
@@ -36,7 +26,7 @@ This repository contains an HTML recreation of a pre-1990 Urdu newspaper front p
 ## Implemented Features
 
 - Proper HTML5 doctype and metadata
-- Use of semantic elements (`header`, `nav`, `article`, `section`, `aside`, `footer`)
+- Use of semantic elements (`header`, `article`, `section` etc)
 - Multi-column layout using inline flexbox and `columns` properties
 - Editorial header implemented with a table-based structure for authenticity
 - Responsive image handling using fixed containers and `object-fit` where appropriate
@@ -67,7 +57,7 @@ HTML-Newspaper-Uzair_Ahmad-2pp9021/
 
 - Total HTML elements: approximately 50
 - Total lines of code: approximately 200
-- Semantic tags used: header, nav, article, section, footer, aside
+- Semantic tags used: header, article, section
 - Images: 6
 
 ---
@@ -106,7 +96,7 @@ Open `index.html` in a web browser to view the recreated newspaper front page. I
 
 - HTML and CSS documentation and specifications (MDN Web Docs, W3C)
 - Semantic HTML guidelines and best practices
-- Accessibility and validation resources
+- Accessibility and validation resources (W3C)
 
 ---
 
@@ -118,11 +108,4 @@ Open `index.html` in a web browser to view the recreated newspaper front page. I
 - Inline comments present in `index.html` for major sections
 
 ---
-
-## Contact
-
-For questions about this project, consult the inline comments in `index.html` or the reference materials cited above.
-
----
-
 **Last Updated:** February 15, 2026
